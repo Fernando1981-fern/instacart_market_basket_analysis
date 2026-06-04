@@ -101,7 +101,7 @@ pip install pandas matplotlib jupyter
 
 ## Author
 
-This analysis is part of a market basket analysis project for Instacart customer insights.
+Created by: Fernando Gnone de Oliveira
 
 ## License
 
